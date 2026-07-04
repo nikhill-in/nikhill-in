@@ -5,10 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;AWS+S3+%7C+Tiptap+%7C+WebRTC+%7C+Socket.io;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=nikhill-in&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> -->
   <!-- <img src="https://img.shields.io/github/followers/nikhill-in?label=Followers&style=social" alt="followers" /> -->
-</p>
+<!-- </p> -->
 
 ---
 
