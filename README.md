@@ -41,7 +41,7 @@
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" />
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/-MySql-47A248?style=flat&logo=mysql&logoColor=blue" />
+        <img src="https://img.shields.io/badge/-MySql-ffffff?style=flat&logo=mysql&logoColor=blue" />
         <img src="https://img.shields.io/badge/-AWS%20S3-FF9900?style=flat&logo=amazons3&logoColor=white" />
         <img src="https://img.shields.io/badge/-Tiptap-000000?style=flat" />
         <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
