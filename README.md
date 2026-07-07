@@ -1,10 +1,12 @@
+![Nikhil Singh Chauhan — MERN Stack Developer](./banner.png)
+
 # Nikhil Singh Chauhan
 
 **MERN Stack Developer** — I build and ship production web apps with React, Next.js, Node.js & MongoDB.
 
 3 live production websites delivered for Visko HR & Remark HR • Custom CMS with a Tiptap rich-text editor & AWS S3 media storage • Real-time video conferencing with WebRTC & Socket.io.
 
-📫 **nikhik2233@gmail.com** · 🟢 Open to Full Stack / MERN opportunities
+📫 **nikhik2233@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/nikhilsingh-in/) · 🟢 Open to Full Stack / MERN opportunities
 
 ---
 
@@ -51,4 +53,4 @@
 
 ---
 
-📫 Let's build something — **nikhik2233@gmail.com** · [github.com/nikhill-in](https://github.com/nikhill-in)
+📫 Let's build something — **nikhik2233@gmail.com** · [LinkedIn](https://www.linkedin.com/in/nikhilsingh-in/) · [github.com/nikhill-in](https://github.com/nikhill-in)
