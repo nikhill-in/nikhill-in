@@ -48,7 +48,7 @@
 
 - **Custom CMS** — built with a Tiptap rich-text editor and AWS S3 media storage for a blog platform.
 - **Real-time video conferencing** — built using WebRTC & Socket.io.
-- **File uploads** — hands-on with the AWS SDK, S3 buckets, and Multer.
+- **File uploads** — hands-on with the AWS SDK, S3 buckets, and Multer/file.
 - **3 production websites** delivered end-to-end for Visko HR and Remark HR.
 
 ---
