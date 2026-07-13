@@ -40,7 +40,7 @@
 **UI & State:** Tailwind CSS · MUI · Bootstrap · Redux · Redux Toolkit
 **Backend & Database:** Node.js · Express.js · MongoDB · MySQL
 **Cloud & Real-Time:** AWS S3 (AWS SDK, Multer uploads) · Socket.io · WebRTC
-**Tools:** Git · Postman · VS Code · Vercel · Figma
+**Tools:** Git · Postman · VS Code · Figma
 
 ---
 
